@@ -64,7 +64,7 @@ footer {
   transform: rotateX(2deg) rotateY(4deg) rotateZ(1deg);
 }
 .card:nth-child(1) {
-  background: linear-gradient(120deg, var(--white), #dedede);
+  background: linear-gradient(120deg, #adcccc, var(--white));
 }
 .card:nth-child(2) {
   background: linear-gradient(120deg, #5e35b1, #9575cd);
